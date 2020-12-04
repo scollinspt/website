@@ -24,10 +24,9 @@ date_format = "Jan 2006"
   location = "New Hampshire"
   date_start = "2015-06-01"
   date_end = ""
-  description = """
+  description = ""
   Responsibilities include:
   
-  * Program development
   * Teaching
   * Research
   * Service
