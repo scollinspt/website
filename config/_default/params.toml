@@ -93,7 +93,7 @@ phone = "603 535 2891"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "17 High Street, MSC68", city = "Plymouth", region = "NH", postcode = "03303", country = "United States", country_code = "US"}
+address = {street = "17 High Street MSC68", city = "Plymouth", region = "NH", postcode = "03303", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -104,20 +104,14 @@ directions = "Enter Samuel Read Hall Building, Second Floor, Office 211, Lab 206
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["By Appointment"]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-# contact_links = [
- # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
- # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
- # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
- # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  # ]
+contact_links = []
 
 ############################
 ## Social
