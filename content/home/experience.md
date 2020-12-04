@@ -39,11 +39,6 @@ date_format = "Jan 2006"
   location = "Massachusetts"
   date_start = "1998-09-01"
   date_end = "2015-05-31"
-  description = """
-  Responsibilities include:
-  
-  * Teaching
-  * Research
-  * Service
+  description = ""
 
 +++
