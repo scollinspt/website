@@ -42,7 +42,7 @@ user_groups:
   - Researchers
   - Visitors
 highlight_name: false
-title: Sean Collins, PT, ScD
+title: Sean Collins
 email: ""
 ---
 
