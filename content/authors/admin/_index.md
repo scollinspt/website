@@ -17,9 +17,9 @@ organizations:
 bio: Professor of physical therapy with an interest in applying theory to improve practice and in applying practice to improve theory
 
 interests:
-- Complexity and uncertainty in practice decisions
+- Clinical inquiry
 - Clinical physiology
-- Exposure modeling
+- Ergonomics
 
 education:
   courses:
