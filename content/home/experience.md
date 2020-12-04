@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   description = """
 Responsibilities include:
   
-  * Teaching (DPT, Exercise Physiology, Biomedical Engineering)
+  * Teaching
   * Research
   * Service
 
