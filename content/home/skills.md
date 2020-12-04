@@ -15,11 +15,11 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "heartbeat"
+  icon_pack = "fas"
+  name = "Clinical Physiology"
   description = ""
-  
+ 
 [[feature]]
   icon = "project-diagram"
   icon_pack = "fas"
@@ -27,9 +27,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "heartbeat"
-  icon_pack = "fas"
-  name = "Clinical Physiology"
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
   description = ""
 
 # Uncomment to use emoji icons.
