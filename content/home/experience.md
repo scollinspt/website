@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Professor"
+  title = "Professor of Physical Therapy"
   company = "Plymouth State University"
   company_url = ""
   location = "New Hampshire"
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Teaching
+  * Teaching in DPT program
   * Research
   * Service
   """
@@ -40,5 +40,10 @@ date_format = "Jan 2006"
   date_start = "1998-09-01"
   date_end = "2015-05-31"
   description = ""
+Responsibilities include:
+  
+  * Teaching (DPT, Exercise Physiology, Biomedical Engineering)
+  * Research
+  * Service
 
 +++
