@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Teaching
+  * Teaching in the DPT program
   * Research
   * Service
   """
@@ -42,7 +42,9 @@ date_format = "Jan 2006"
   description = """
  Responsibilities included:
   
-  * Teaching
+  * Teaching in the DPT program
+  * Teaching in the Exercise Physiology program
+  * Teaching in the Biomedical Engineering program (quantitative physiology)
   * Research
   * Service
   """
