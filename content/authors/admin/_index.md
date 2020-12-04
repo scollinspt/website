@@ -14,6 +14,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/scollinspt
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/SeanCollinsPT/
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Sean_Collins25
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-7609-6219
 organizations:
   - name: Plymouth State University
     url: https://www.plymouth.edu/
