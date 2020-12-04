@@ -117,14 +117,14 @@ office_hours = ["By Appointment"]
  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+  # ]
 
 ############################
 ## Social
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "static/media/Collins_2019smaller"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 # twitter = ""
