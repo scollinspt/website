@@ -5,7 +5,9 @@ bio: Professor of physical therapy with research interests in stress physiology,
 interests:
   - Stress physiology
   - Adaptation energy
-  - Critical realist logic & epistemology
+  - Critical realism
+  - Causation
+  - Systems theory
 
 social:
   - icon: envelope
