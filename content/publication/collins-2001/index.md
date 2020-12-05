@@ -32,7 +32,7 @@ publication_types:
 - 2
 abstract: "Occupational stress is implicated as an etiology for a variety of diseases. Many of the etiological theories surrounding these associations incriminate some deviation of autonomic nervous system activity. New methods of analyzing cardiovascular data obtained from a Holter monitor provide a window into a worker's autonomic nervous system throughout the day, in many cases for two days. These methods allow a variety of comparisons, for example, between workers of varying job stress levels, between work days and rest days, day and night, and between high stress and low stress periods. Identifying altered autonomic nervous system activity patterns throughout the day may: 1. provide insight into the etiology of stress related pathologies; 2. allow quantification of exposure; 3. investigate possible interaction effects of different exposures; 4. lead to monitoring methods capable of identifying whether an employee's job stress is increasing his or her risk for disease."
 publication: '*Work*'
-doi: https://www.researchgate.net/publication/263531712_Emerging_methods_for_the_physiological_assessment_of_occupational
+doi: 
 links:
   - name: Open Access PDF
     url: 'https://www.researchgate.net/publication/263531712_Emerging_methods_for_the_physiological_assessment_of_occupational'
