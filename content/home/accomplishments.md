@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "1997-09-01"
   date_end = "2003-04-23"
-  description = """Demonstrated an association between various heart rate variability based metrics and components of job strain consistent with the stress-disequilibrium hypothesis. Brought the lab to the field using ambulatory methods of ECG monitoring and HRV analysis before such methods were as pervasive as they are today."""
+  description = """Demonstrated an association between various heart rate variability based metrics and components of job strain consistent with the stress-disequilibrium hypothesis. Brought the lab to the field using ambulatory methods of ECG monitoring and HRV analysis before such methods were as pervasive as they are today. Combined and required mastery of ergonomics (work and stress physiology, including scientific computation) and epidemiology (consideration of causal associations in systems of complex networks including causal analysis and statistical inference)."""
 
 [[item]]
   organization = "Plymouth State University"
