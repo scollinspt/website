@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Massachusetts Lowell"
   organization_url = "https://www.uml.edu"
-  title = """Dissertation on job strain and its electrocardiographically assessed pathophysiological correlates"""
+  title = """Dissertation: *Job strain and its electrocardiographically assessed pathophysiological correlates*"""
   url = ""
   certificate_url = ""
   date_start = "1997-09-01"
