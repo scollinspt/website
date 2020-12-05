@@ -1,0 +1,27 @@
+---
+title: Trial
+author: Collins
+date: '2020-12-05'
+slug: trial
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-05T05:39:31-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Does this work?
+```{r}
+library(ggplot2)
+ggplot(mtcars, aes(x = drat, y = mpg)) +
+    geom_point()
+
+```
+
