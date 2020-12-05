@@ -46,7 +46,7 @@ Systolic Blood Pressure
 SBP Scatterplot
 ---------------
 
-![SBP Scatterplot](/img.png)
+![SBP Scatterplot](content/post/img/img.png)
 
 LME - Systolic Blood Pressure
 -----------------------------
