@@ -5,8 +5,8 @@ bio: Professor of physical therapy with an interest in applying theory to
   improve practice and in applying practice to improve theory
 interests:
   - Clinical inquiry
-  - Clinical physiology
-  - Ergonomics
+  - Stress physiology
+  - Adaptation
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,6 +20,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Sean_Collins25
+  - icon: zotero
+    icon_pack: ai
+    link: https://www.zotero.org/scollinsptscd
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-7609-6219

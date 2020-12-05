@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "University of Massachusetts Lowell"
+  organization_url = "https://www.uml.edu"
+  title = """Dissertation on job strain and its electrocardiographically assessed pathophysiological correlates"""
+  url = ""
+  certificate_url = ""
+  date_start = "1997-09-01"
+  date_end = "2003-04-23"
+  description = """Demonstrated an association between various heart rate variability based metrics and components of job strain consistent with the stress-disequilibrium hypothesis. Brought the lab to the field using ambulatory methods of ECG monitoring and HRV analysis before such methods were as pervasive as they are today."""
+
+[[item]]
   organization = "Plymouth State University"
   organization_url = "https://www.plymouth.edu"
   title = "Plymouth State University DPT Program"
@@ -45,7 +55,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2017-01-01"
-  date_end = ""
+  date_end = "2021-10-01"
   description = """Editor of the Cardiopulmonary Physical Therapy Journal, the official publication of the Cardiovascular and Pulmonary Section, APTA, is a unique journal that highlights research in the areas of cardiovascular and pulmonary disease, health and wellness, and the role that physical therapists play in the management of primary, secondary and tertiary prevention. Topics range from physiological analysis to educational interventions, and authors from all over the world are represented. Our mission is to advance patient care, education and research in these areas."""
 
 +++
