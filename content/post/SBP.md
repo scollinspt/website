@@ -46,14 +46,12 @@ Systolic Blood Pressure
 SBP Scatterplot
 ---------------
 
-![SBP Scatterplot](content/post/img/img.png)
+![SBP Scatterplot](sbp.png)
 
 LME - Systolic Blood Pressure
 -----------------------------
 
 ### LME SBP Model Statistics
-
-    anova(sbpBaseline,sbpHrModel,sbpFullModel, sbpInteractionModel)
 
     ##                     Model df      AIC      BIC    logLik   Test   L.Ratio
     ## sbpBaseline             1  4 3145.153 3160.585 -1568.577                 
@@ -116,6 +114,5 @@ LME - Systolic Blood Pressure
     ## attr(,"label")
     ## [1] "Fixed effects:"
 
-    pander(sessionInfo(), compact = FALSE)
 
 
