@@ -23,9 +23,6 @@ social:
   - icon: zotero
     icon_pack: ai
     link: https://www.zotero.org/scollinsptscd
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0002-7609-6219
 organizations:
   - name: Plymouth State University
     url: https://www.plymouth.edu/
@@ -49,4 +46,4 @@ title: Sean Collins
 email: ""
 ---
 
-Sean Collins is a Professor of Physical Therapy with a teaching emphasis on clinical inquiry and reasoning. He was the founding chair and program director of the Plymouth State University DPT program but relinquished administrative duties in 2020 in order to focus on teaching and scholarship. His research interests are in stress physiology, particularly elucidating Selye's concept of *adaptation energy* based on an understanding of biological information, physiological stratification and Karasek's conception of ordering capacity. 
+Professor of Physical Therapy with a teaching emphasis on clinical inquiry and reasoning. Founded and directed the Plymouth State University DPT program but relinquished administrative duties in 2020 in order to focus on teaching and scholarship. Research interests are in stress physiology, particularly elucidating Selye's concept of *adaptation energy* based on an understanding of biological information, physiological stratification and Karasek's conception of ordering capacity. 
