@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "project-diagram"
   icon_pack = "fas"
-  name = "Causation"
+  name = "Causal Analysis"
   description = ""  
   
 [[feature]]
