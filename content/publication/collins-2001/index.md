@@ -5,7 +5,7 @@ title: Emerging Methods for the Physiological Assessment of Occupational Stress
 subtitle: ''
 summary: 'This article introduces heart rate variability as a biomarker for the assessment of occupational stress based on its physiological robustness combined with the ability to monitor workers while they are on the job.'
 authors:
-- S. M. Collins
+- Sean M Collins
 tags: [HRV, Stress Physiology, Ambulatory Monitoring, Stress Theory]
 categories: []
 date: '2001-01-01'
