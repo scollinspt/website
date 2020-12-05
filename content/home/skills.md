@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "heartbeat"
   icon_pack = "fas"
-  name = "Clinical Physiology"
+  name = "Stress Physiology"
   description = ""
  
 [[feature]]
   icon = "project-diagram"
   icon_pack = "fas"
-  name = "Logic & Statistics"
+  name = "Causation"
   description = ""  
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "Scientific Computation"
   description = ""
 
 # Uncomment to use emoji icons.
