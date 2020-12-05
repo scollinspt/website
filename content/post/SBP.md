@@ -53,7 +53,7 @@ SBP Scatterplot
 
     ## `geom_smooth()` using formula 'y ~ x'
 
-![](SBP_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+![SBP Scatterplot](SBP_files/unnamed-chunk-2-1.png)
 
 LME - Systolic Blood Pressure
 -----------------------------
