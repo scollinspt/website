@@ -5,11 +5,11 @@ title: Physical Therapist Clinical Practice Guideline for the Management of Indi
 subtitle: ''
 summary: 'A clinical practice guideline for physical therapists providing rehabilitation to individuals with heart failure.'
 authors:
-- Shoemaker, Michael J;
-- Dias, Konrad J;
-- Lefebvre, Kristin M;
-- Heick, John D;
-- Collins, Sean M;
+- Michael J Shoemaker
+- Konrad J Dias
+- Kristin M Lefebvre
+- John D Heick
+- Sean M Collins
 tags: [Heart Failure, Physical Therapy, Clinical Practice Guideline]
 categories: []
 date: '2020-01-01'
