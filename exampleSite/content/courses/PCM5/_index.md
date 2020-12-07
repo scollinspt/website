@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: PCM 5 Cardiopulmonary
+summary: PSU DPT Patient-Client Management 5 Course, Cardiopulmonary Module
 weight: 1
 
 # Page metadata.
