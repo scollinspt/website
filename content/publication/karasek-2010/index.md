@@ -3,7 +3,7 @@
 
 title: Description of a large-scale study design to assess work-stress-disease associations for cardiovascular disease
 subtitle: ''
-summary: ''
+summary: 'A proposed study design meant to span across a broad social population at all levels and would probably be multi-site, involving several countries, to yield the larger sample increased power for finding associations for work - physiological effects.'
 authors:
 - Karasek, Robert
 - Sean Collins
