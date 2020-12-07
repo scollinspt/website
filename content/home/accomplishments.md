@@ -24,10 +24,11 @@ date_format = "Jan 2006"
   title = """Dissertation: *Job strain and its electrocardiographically assessed pathophysiological correlates*"""
   url = ""
   certificate_url = ""
-  date_start = "1997-09-01"
-  date_end = "2003-04-23"
+  date_start = "2003-04-23"
+  date_end = ""
   description = """Completed under the supervision and with the collaboration of <a href="https://www.oresundsynergy.com/robert-karasek/" target="_blank">Robert Karsek</a>. Demonstrated an association between various heart rate variability based metrics and components of job strain consistent with the stress-disequilibrium hypothesis. Brought the lab to the field using ambulatory methods of ECG monitoring and HRV analysis before such methods were as pervasive as they are today. Combined and required mastery of ergonomics (work and stress physiology, including scientific computation) and epidemiology (consideration of causal associations in systems of complex networks including causal analysis and statistical inference)."""
 
+<!-- 
 [[item]]
   organization = "Plymouth State University"
   organization_url = "https://www.plymouth.edu"
@@ -37,6 +38,7 @@ date_format = "Jan 2006"
   date_start = "2015-06-01"
   date_end = "2020-05-31"
   description = """Developed, implemented and achieved initial accreditation of the DPT program at Plymouth State University as the Founding Chair and Program Director"""
+ -->
 
 [[item]]
   organization = "Cardiovascular & Pulmonary Section of the APTA"
@@ -49,13 +51,23 @@ date_format = "Jan 2006"
   description = """Awarded to acknowledge outstanding and enduring contributions to the practice of physical therapy as exemplified in the professional career of Linda Crane."""
   
 [[item]]
-  organization = "Cardiopulmonary Physical Therapy Journal"
-  organization_url = "https://journals.lww.com/cptj"
-  title = "Editor-in-Chief"
+  organization = "UMass Lowell Work Environment Department"
+  organization_url = ""
+  title = "Lorin Kerr Award"
   url = ""
   certificate_url = ""
-  date_start = "2017-01-01"
-  date_end = "2021-10-01"
-  description = """Editor of the Cardiopulmonary Physical Therapy Journal, the official publication of the Cardiovascular and Pulmonary Section, APTA, is a unique journal that highlights research in the areas of cardiovascular and pulmonary disease, health and wellness, and the role that physical therapists play in the management of primary, secondary and tertiary prevention. Topics range from physiological analysis to educational interventions, and authors from all over the world are represented. Our mission is to advance patient care, education and research in these areas."""
+  date_start = "2003-05-31"
+  date_end = ""
+  description = """Awarded for excellence in ergonomics research for dissertation on job strain and heart rate variability"""
+  
+[[item]]
+  organization = "UMass Lowell Physical Therapy Department"
+  organization_url = ""
+  title = "Clinical Excellence Award"
+  url = ""
+  certificate_url = ""
+  date_start = "1994-05-31"
+  date_end = ""
+  description = """Awarded for academic excellence during clinical rotations"""
 
 +++

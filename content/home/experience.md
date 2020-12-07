@@ -18,9 +18,9 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Professor of Physical Therapy"
+  title = "Professor"
   company = "Plymouth State University"
-  company_url = ""
+  company_url = "https://www.plymouth.edu/academics/graduate-academic-programs/doctor-of-physical-therapy/"
   location = "New Hampshire"
   date_start = "2015-06-01"
   date_end = ""
@@ -30,6 +30,22 @@ date_format = "Jan 2006"
   * Teaching in the DPT program
   * Research
   * Service
+  """
+
+[[experience]]
+  title = "Editor"
+  company = "Cardiopulmonary Physical Therapy Journal"
+  company_url = "https://journals.lww.com/cptj/pages/default.aspx"
+  location = ""
+  date_start = "2017-01-01"
+  date_end = "2021-12-31"
+  description = """
+  Responsibilities include:
+  
+  * Editing four issues of the Journal per year
+  * Coordinate responsibilities of Associate Editors
+  * Maintain a qualified editorial board and screen reviewers
+  * Maintain a working relationship and contract with publications office
   """
 
 [[experience]]
@@ -45,6 +61,7 @@ date_format = "Jan 2006"
   * Teaching in the DPT program
   * Teaching in the Exercise Physiology program
   * Teaching in the Biomedical Engineering program (quantitative physiology)
+  * PhD & MS in Biomedical Engineering thesis supervision
   * Research
   * Service
   """
