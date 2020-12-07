@@ -37,6 +37,4 @@ abstract: ""
 publication: '*Hypertension*'
 doi: https://doi.org/10.1161/HYPERTENSIONAHA.107.088633
 links:
-  - name: 
-    url: ''
 ---
