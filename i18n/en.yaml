@@ -180,9 +180,6 @@
 - id: pub_thesis
   translation: Thesis
 
-- id: pub_patent
-  translation: Patent
-
 - id: pub_editorial
   translation: Editorial
 
