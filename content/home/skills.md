@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "heartbeat"
   icon_pack = "fas"
-  name = "Stress Physiology"
+  name = "Cardiovascular Dynamics"
   description = ""
  
 [[feature]]
