@@ -28,18 +28,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Completed under the supervision and with the collaboration of <a href="https://www.oresundsynergy.com/robert-karasek/" target="_blank">Robert Karsek</a>. Demonstrated an association between various heart rate variability based metrics and components of job strain consistent with the stress-disequilibrium hypothesis. Brought the lab to the field using ambulatory methods of ECG monitoring and HRV analysis before such methods were as pervasive as they are today. Combined and required mastery of ergonomics (work and stress physiology, including scientific computation) and epidemiology (consideration of causal associations in systems of complex networks including causal analysis and statistical inference)."""
 
-<!-- 
-[[item]]
-  organization = "Plymouth State University"
-  organization_url = "https://www.plymouth.edu"
-  title = "Plymouth State University DPT Program"
-  url = ""
-  certificate_url = ""
-  date_start = "2015-06-01"
-  date_end = "2020-05-31"
-  description = """Developed, implemented and achieved initial accreditation of the DPT program at Plymouth State University as the Founding Chair and Program Director"""
- -->
-
 [[item]]
   organization = "Cardiovascular & Pulmonary Section of the APTA"
   organization_url = "https://cardiopt.org/"
