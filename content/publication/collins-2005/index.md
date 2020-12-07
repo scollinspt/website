@@ -34,7 +34,7 @@ publication_types:
 - 2
 abstract: "Background: Despite the epidemiological evidence linking job strain to cardiovascular disease, more insight is needed into the etiologic mechanisms. This, in turn, would help to more precisely identify risk. Methods: We measured Job Strain using the Job Content Questionnaire, 8/day diary reports, and nationally standardized occupational code linkage, as well as autonomic regulation utilizing heart rate variability including spectral-derived components and QT interval variability in 36 healthy mid-aged males with varying strain jobs. The subjects wore Holter-monitors for 48 hr; this included a work and rest day. Results: Job strain (P = 0.02) and low decision latitude (P = 0.004) were associated with a reduction in cardiac vagal control (HFP) persisting throughout the 48 hr. Job strain was also associated with elevations in sympathetic control during working hours (P = 0.003). Conclusions: The disturbed cardiovascular regulatory pattern associated with job strain may help explain the increased risk of cardiovascular diseases linked with occupational exposure."
 publication: '*American Journal of Industrial Medicine*'
-doi: 10.1002/ajim.20204
+doi: https://doi.org/10.1002/ajim.20204
 links:
   - name: Journal Website
     url: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/ajim.20204'
