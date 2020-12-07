@@ -33,8 +33,8 @@ publication_types:
 - 2
 abstract: " "
 publication: '*Trends in Cognitive Sciences*'
-doi: https://doi.org/10.1016/j.tics.2020.03.008
+doi: 
 links:
   - name: Open Access PDF
-    url: 'https://doi.org/10.1016/j.tics.2020.03.008'
+    url: ''
 ---

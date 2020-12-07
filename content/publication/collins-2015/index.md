@@ -36,5 +36,5 @@ publication: '*Trends in Cognitive Sciences*'
 doi: https://doi.org/10.1016/j.tics.2020.03.008
 links:
   - name: Open Access PDF
-    url: 'https://doi.org/10.1016/j.tics.2020.03.008'
+    url: ''
 ---
