@@ -19,16 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "University of Massachusetts Lowell"
-  organization_url = "https://www.uml.edu"
-  title = """Dissertation: *Job strain and its electrocardiographically assessed pathophysiological correlates*"""
-  url = ""
-  certificate_url = ""
-  date_start = "2003-04-23"
-  date_end = ""
-  description = """Completed under the supervision and with the collaboration of <a href="https://www.oresundsynergy.com/robert-karasek/" target="_blank">Robert Karsek</a>. Demonstrated an association between various heart rate variability based metrics and components of job strain consistent with the stress-disequilibrium hypothesis. Brought the lab to the field using ambulatory methods of ECG monitoring and HRV analysis before such methods were as pervasive as they are today. Combined and required mastery of ergonomics (work and stress physiology, including scientific computation) and epidemiology (consideration of causal associations in systems of complex networks including causal analysis and statistical inference)."""
-
-[[item]]
   organization = "Cardiovascular & Pulmonary Section of the APTA"
   organization_url = "https://cardiopt.org/"
   title = "Linda Crane Memorial Lecture Award Recipient"

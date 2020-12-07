@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://journals.lww.com/cptj/pages/default.aspx"
   location = ""
   date_start = "2017-01-01"
-  date_end = "2021-12-31"
+  date_end = ""
   description = """
   Responsibilities include:
   
