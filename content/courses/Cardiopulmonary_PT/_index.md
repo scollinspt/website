@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Cardiopulmonary Physical Therapy
-summary: Cardiopulmonary PT - currently a module in the PSU DPT Patient-Client Management 5 Course - teaches students to effectively examine, evaluate and develop an appropriate course of action (response), intervention, referral or physical therapy plan of care for a person with primary or secondary cardiovascular or pulmonary conditions, or for a patient for which physical endurance or shortness of breath limits participation or activity.
+summary: Cardiopulmonary PT - *currently a module in the PSU DPT Patient-Client Management 5 Course* - teaches students to effectively examine, evaluate and develop an appropriate course of action (response), intervention, referral or physical therapy plan of care for a person with primary or secondary cardiovascular or pulmonary conditions, or for a patient for which physical endurance or shortness of breath limits participation or activity.
 weight: 3
 
 # Page metadata.
