@@ -32,9 +32,11 @@ image:
 projects: []
 publishDate: '2007-05-01T11:01:29.726376Z'
 publication_types:
-- 2
+- 8
 abstract: ""
 publication: '*Hypertension*'
 doi: https://doi.org/10.1161/HYPERTENSIONAHA.107.088633
 links:
+  - name: PDF
+    url: ''
 ---
