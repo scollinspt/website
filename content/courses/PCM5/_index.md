@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Cardiopulmonary Physical Therapy
-summary: Cardiopulmonary Module from the PSU DPT Patient-Client Management 5 Course 
+summary: Cardiopulmonary PT Module from the PSU DPT Patient-Client Management 5 Course 
 weight: 5
 
 # Page metadata.
