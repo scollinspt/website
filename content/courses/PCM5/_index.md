@@ -16,9 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example:
+PCM5:
     name: Cardiopulmonary PT
-    weight: 5
+    weight: 1
 ---
 
 ## Course goal
