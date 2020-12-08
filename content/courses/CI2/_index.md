@@ -2,10 +2,10 @@
 # Course title, summary, and position.
 linktitle: Clinical Inquiry II
 summary: Clinical Inquiry II
-weight: 1
+weight: 3
 
 # Page metadata.
-title: Clinical Inquiry II Overview
+title: Clinical Inquiry II
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Clinical Inquiry II Overview
+    name: Clinical Inquiry II
     weight: 3
 ---
 

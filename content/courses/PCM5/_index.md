@@ -2,10 +2,10 @@
 # Course title, summary, and position.
 linktitle: Cardiopulmonary Physical Therapy
 summary: Cardiopulmonary Module from the PSU DPT Patient-Client Management 5 Course 
-weight: 1
+weight: 5
 
 # Page metadata.
-title: Cardiopulmonary PT Overview
+title: Cardiopulmonary PT
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Cardiopulmonary PT Overview
+    name: Cardiopulmonary PT
     weight: 5
 ---
 
