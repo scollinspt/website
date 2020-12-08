@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: Clinical Inquiry II Overview
-    weight: 1
+    weight: 3
 ---
 
 ## Under development

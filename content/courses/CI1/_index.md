@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Clinical Inquiry I
 summary: Clinical Inquiry I
-weight: 1
+weight: 2
 
 # Page metadata.
 title: Clinical Inquiry I Overview
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: Clinical Inquiry I Overview
-    weight: 1
+    weight: 2
 ---
 
 ## Under development

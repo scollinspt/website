@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: Cardiopulmonary PT Overview
-    weight: 1
+    weight: 5
 ---
 
 ## Course goal
