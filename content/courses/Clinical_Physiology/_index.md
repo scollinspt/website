@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Clinical Physiology
-summary: Clinical Physiology
+summary: Clinical Physiology reviews requisite understanding of organ and system level physiology to consider temporal and spatial integration for homeostasis, allostasis, adaptation and adaptability.
 weight: 1
 
 # Page metadata.
