@@ -9,6 +9,7 @@ authors:
 - Paul Landsbergis
 - Nicholas Warren
 - Anthony D LaMontagne
+- 
 tags: [Occupational stress, Psychosocial factors]
 categories: []
 date: '2007-05-01'
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2007-05-01T11:01:29.726376Z'
+publishDate: '2007-05-28T11:01:29.726376Z'
 publication_types:
 - 8
 abstract: ""
