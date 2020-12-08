@@ -10,7 +10,7 @@ tags: [HRV, Stress Physiology, Adaptation Energy]
 categories: []
 date: '2003-12-01'
 lastmod: 2020-08-28T13:01:30+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
