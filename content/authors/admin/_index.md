@@ -1,13 +1,13 @@
 ---
 role: Professor of Physical Therapy
 avatar_filename: avatar.jpg
-bio: Professor of physical therapy with research interests in stress physiology, particularly Selye's concept of *adaptation energy*
+bio: Professor of physical therapy with research interests in clinical reasoning, stress and adaptation.
 interests:
-  - Stress physiology
-  - Adaptation energy
-  - Critical realism
+  - Stress and Adaptation
+  - Clinical reasoning
   - Causation
   - Systems theory
+  
 
 social:
   - icon: envelope
@@ -48,4 +48,4 @@ title: Sean Collins
 email: ""
 ---
 
-Professor of Physical Therapy with a teaching emphasis on clinical inquiry and reasoning. Founded and directed the Plymouth State University DPT program but relinquished administrative duties in 2020 in order to focus on teaching and scholarship. Research interests are in stress physiology, particularly elucidating Selye's concept of *adaptation energy* based on an understanding of biological information, physiological stratification and Karasek's conception of ordering capacity. 
+Professor of Physical Therapy with a teaching emphasis on clinical inquiry and reasoning. Founded and directed the Plymouth State University DPT program but relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Scholarly interests merge a conceptual foundation of practice (stress and adaptation) with clinical reasoning (particularly logic, epistemology and causation). 
