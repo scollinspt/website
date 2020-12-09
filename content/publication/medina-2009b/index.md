@@ -15,7 +15,7 @@ tags: [Exercise, Physical Therapy, Qualitative research, Adherence, Chronic pain
 categories: []
 date: '2009-05-01'
 lastmod: 2020-08-28T13:01:30+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

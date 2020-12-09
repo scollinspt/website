@@ -1,21 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Personal characteristics influencing patients' adherence to home exercise during chronic pain
+title: Mobility activities measurement for outpatient rehabilitation settings
 subtitle: 'A qualitative study'
-summary: 'These findings may represent an important potential for improving the adherence of patients with chronic pain to home exercise programmes.'
+summary: 'Information about Mobility Activities Measure items and dimensions from this study will be useful in the future operationalization and implementation of the ICF.'
 authors:
-- Francesc Medina-Mirapeix 
+- Francesc Medina-Mirapeix
+- E Navarro-Pujalte 
 - Pilar Escolar-Reina
-- J.J. Gascan-Cnovas
 - J. Montilla-Herrador
+- JF Valera-Garrido
 - Sean M Collins
 
-tags: [Exercise, Physical Therapy, Qualitative research, Adherence, Chronic pain]
+tags: [Rehabilitation, Physical Therapy, Disability evaluation, Mobility limitation]
 categories: []
-date: '2009-05-01'
+date: '2011-04-01'
 lastmod: 2020-08-28T13:01:30+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -32,13 +33,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2009-05-28T11:01:29.726376Z'
+publishDate: '2011-04-28T11:01:29.726376Z'
 publication_types:
 - 2
-abstract: "Objective. To identify the beliefs and perceptions of patients with chronic neck and low back pain that influence adherence to home exercise during exacerbation and/or remission of pain. Design. Qualitative study using a focus group technique. Subjects. Thirty-four patients (23 women, age range 26-70 years) with chronic neck or low back pain who had participated in a home exercise programme. Methods. Seven focus groups were formed. Participants were sampled purposefully from all patients with chronic neck or low back pain who attended for physiotherapy at 4 primary healthcare centres. Patients were interviewed about how they perceived their adherence to a home exercise programme during chronic pain. Data were analysed using a phenomenographic method. Results. Several themes about patients' beliefs and perceptions were identified as factors related to adherence. These factors change when pain or disabilities appear, decrease or disappear for an extended period. Beliefs about illness and treatment are more likely when pain is present and when pain disappears for an extended period. However, patients consider perceptions about barriers, social support and physical environment when pain decreases. Conclusion. These findings may represent an important potential for improving the adherence of patients with chronic pain to home exercise programmes. "
-publication: '*Journal of Rehabilitation Medicine*'
-doi: https://doi.org/10.2340/16501977-0338
+abstract: "To investigate the factor structure and scale properties of items underlying the mobility activities subdomains of the International Classification of Functioning, Disability and Health (ICF). Design. A cross-sectional self-reportbased psychometric study. Setting. Outpatient rehabilitation settings (N=3) in 3 urban areas of Spain. Participants. Convenience sample of 615 patients with musculoskeletal conditions (mean age, 38.1y) participating in an active physiotherapy program. Interventions. Not applicable. Main Outcomes Measures. A 22-item Mobility Activities Measure by using a self-report questionnaire that assessed whether patients had limitations on daily activities across major ICF categories of mobility subdomains. Factor analysis, tests of item scaling, internal consistency reliability analysis, Rasch item response theory modeling, and modified parallel analysis were used. Results. Initial exploratory factor analysis results for each ICF subdomain produced a total of 5 distinct and interpretable factors or dimensions, changing and maintaining body position involving sitting and/or lying; changing and maintaining body position involving standing up; carrying, moving, and handling objects using the hand and shoulder; carrying, moving, and handling objects using the hand and/or forearm; and walking and moving. Dimensionality of these 5 factors was verified by using confirmatory factor analyses and scaling assumptions were met for each dimension. Rasch scaling and modified parallel analysis supported the unidimensionality. Conclusions. The Mobility Activities Measure is a promising new self-report measure of mobility activities as defined by the ICF. Information about Mobility Activities Measure items and dimensions from this study will be useful in the future operationalization and implementation of ICF."
+publication: '*Archives of Physical Medicine and Rehabilitation*'
+doi: https://doi.org/10.1016/j.apmr.2010.11.025
 links:
-  - name: Open Access PDF
-    url: 'https://medicaljournals.se/jrm/content/abstract/10.2340/16501977-0338'
+
 ---

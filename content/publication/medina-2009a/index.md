@@ -16,7 +16,7 @@ tags: [Physical Therapy, Low back pain, Adherence, Psychosocial factors]
 categories: []
 date: '2009-10-01'
 lastmod: 2020-08-28T13:01:30+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
