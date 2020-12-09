@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Synthesis
-subtitle: 'Causal Models, Causal Knowledge'
+title: Synthesis, Causal Models, Causal Knowledge
+subtitle: ''
 summary: 'The synthesis is that practice is based on causal knowledge and that we can encode causal knowledge with causal models.'
 authors:
 - Sean M Collins
