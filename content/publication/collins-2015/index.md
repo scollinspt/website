@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Heart Failure
-subtitle: 'Stability, Decompensation, and Readmission'
+title: Heart Failure, Stability, Decompensation, and Readmission
+subtitle: ''
 summary: 'Reviews current empirical evidence regarding escalating readmissions for HF and the potential role physical therapists can play in reducing these events.'
 authors:
 - Sean M Collins

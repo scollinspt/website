@@ -6,14 +6,15 @@ subtitle: 'A qualitative study'
 summary: 'Outpatients often perceive their experiences of rehabilitation care as non-connected or non-coherent over time.'
 authors:
 - Francesc Medina-Mirapeix
-- ME DelBano Aledo
 - S Oliveira-Sousa
 - Pilar Escolar-Reina
+- M Sobral-Ferreira
+- MC Lillo-Navarro
 - Sean M Collins
 
-tags: [Physical Therapy, Continuity of care, Outpatient, Qualitative methods]
+tags: [Physical Therapy, Rehabilitation, Continuity of care, Quality of care, Qualitative methods]
 categories: []
-date: '2013-06-01'
+date: '2017-02-01'
 lastmod: 2020-08-28T13:01:30+02:00
 featured: false
 draft: false
@@ -32,12 +33,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2013-06-28T11:01:29.726376Z'
+publishDate: '2017-02-28T11:01:29.726376Z'
 publication_types:
 - 2
-abstract: "Objective. To identify elements of the environment that patients consider when evaluating the quality of a care experience in outpatient rehabilitation settings. Design. A qualitative study using a modified grounded theory approach. Data collection used semistructured interviewing during 9 focus groups. Setting. Three postacute ambulatory centers in metropolitan areas. Participants. Adults (N=57; 33 men, 24 women) undergoing outpatient rehabilitation for musculoskeletal conditions/injuries. Interventions. Not applicable. Main Outcome Measures. Not applicable. Results. Participants perceived the quality of rehabilitation service on the basis of their experiences with environmental factors, including 3 physical factors (facility design, ambient conditions, and social factors) and 4 organizational factors (duration of attendance, interruptions during delivery of care, waiting times in the sequence of treatment, and patient safety). Conclusions. This study identifies the specific environmental attributes that patients consider important when evaluating the quality of outpatient rehabilitation settings and develops a patient-based framework for assessing the overall perception of service quality. Further research should work to develop self-report questionnaires about patient experiences with the environment in rehabilitation services to provide empirical and quantitative evidence. "
-publication: '*Archives of Physical Medicine and Rehabilitation*'
-doi: https://doi.org/10.1016/j.apmr.2012.11.007
+abstract: "Background Few empirical studies have been conducted on the continuity of rehabilitation services, despite the fact that it may affect clinical outcomes, patient satisfaction, the perception of quality, and safety. Objectives The aim of this study was to explore experiences and perceptions of inpatients receiving physical rehabilitation in an acute care hospital and how these experiences may have led to perceived gaps in the continuity of rehabilitation care. Method Using qualitative research methods, fifteen semi-structured interviews were conducted with patients who received physical rehabilitation during hospital stay in an acute care hospital in Murcia, Spain. Interviews were transcribed verbatim, analyzed, and grouped into predetermined and emergent codes. Results Patients described three main themes in continuity of care: informational, management, and relational continuity. Several factors were described as influencing the perceived gaps in these three types of continuity. Informational continuity was influenced by the transfer of information among care providers. Relational continuity was influenced by patient–therapist relations and consistency on the part of the provider. Management continuity was influenced by consistency of care between providers and the involvement of patients in their own care. Conclusion The participants in this study identified several gaps in three types of continuity of care (informational, management, and relational). Inpatients often perceive their experiences of rehabilitation as being disconnected or incoherent over time."
+publication: '*Brazilian Journal of Physical Therapy*'
+doi: https://doi.org/10.1016/j.bjpt.2017.03.002
 links:
 
 ---
