@@ -3,7 +3,7 @@
 
 title: A Theoretical Perspective of Adaptive Energy and its Clinical Relevance
 subtitle: ''
-summary: 'This presentation proposes a theory of Adaptive Energy in an attempt to provide measurement opportunities for further research. Measurement would allow quantification of the impact of multiple modes of stress on human function.'
+summary: 'This conference presentation proposes a theory of Adaptive Energy in an attempt to provide measurement opportunities for further research. Measurement would allow quantification of the impact of multiple modes of stress on human function.'
 authors:
 - Sean M Collins
 tags: [HRV, Stress Physiology, Adaptation Energy]
