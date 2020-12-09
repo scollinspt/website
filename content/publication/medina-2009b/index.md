@@ -11,7 +11,7 @@ authors:
 - J. Montilla-Herrador
 - Sean M Collins
 
-tags: [Exercise, Physical Therapy, Qualitative research, Adherence, Chronic pain]
+tags: [Exercise, Physical Therapy, Qualitative methods, Adherence, Chronic pain]
 categories: []
 date: '2009-05-01'
 lastmod: 2020-08-28T13:01:30+02:00

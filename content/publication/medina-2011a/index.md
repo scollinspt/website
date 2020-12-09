@@ -12,7 +12,7 @@ authors:
 - JF Valera-Garrido
 - Sean M Collins
 
-tags: [Rehabilitation, Physical Therapy, Disability evaluation, Mobility limitation]
+tags: [Rehabilitation, Physical Therapy, Disability evaluation, Mobility limitation, Qualitative methods]
 categories: []
 date: '2011-04-01'
 lastmod: 2020-08-28T13:01:30+02:00
