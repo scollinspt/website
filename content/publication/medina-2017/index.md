@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: How the rehabilitation environment influences patient perception of service quality
-subtitle: 'A qualitative study'
+title: Continuity of care in hospital rehabilitation services
+subtitle: 'Qualitative insight from inpatient experience'
 summary: 'Outpatients often perceive their experiences of rehabilitation care as non-connected or non-coherent over time.'
 authors:
 - Francesc Medina-Mirapeix
