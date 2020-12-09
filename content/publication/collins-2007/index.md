@@ -10,7 +10,7 @@ authors:
 - Nicholas Warren
 - Anthony D LaMontagne
 - 
-tags: [Occupational stress, Physical Therapy, Heart Failure, Stress Physiology]
+tags: [Occupational stress, Psychosocial factors, causal models]
 categories: []
 date: '2007-05-01'
 lastmod: 2009-02-28T13:01:30+02:00
