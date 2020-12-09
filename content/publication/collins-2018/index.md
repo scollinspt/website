@@ -32,7 +32,7 @@ publication_types:
 - 2
 abstract: "This article presents the 2018 Linda Crane Memorial Lecture Award on Synthesis, Causal Models, Causal Knowledge. The synthesis is that practice is based on causal knowledge and that we can encode causal knowledge with causal models. It proposes the use of causal models to provide a synthesis of what we know to develop causal knowledge from which to further develop with empirical evidence and from which knowledge we can practice. The synthesis is founded on critical realist epistemology that explicitly identifies the human mind as part of the process of knowledge and where the models that are constructed fit with reality even when we cannot empirically verify every component of such models; but where knowledge assumptions are encoded in the models clearly, combine knowledge with reasoning and are subject to empirical verification when possible."
 publication: '*Cardiopulmonary Physical Therapy Journal*'
-doi: https://doi:10.1097/CPT.0000000000000101
+doi: https://doi.org/10.1097/CPT.0000000000000101
 links:
 
 ---
