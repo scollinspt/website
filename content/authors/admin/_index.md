@@ -1,7 +1,7 @@
 ---
 role: Professor of Physical Therapy
 avatar_filename: avatar.jpg
-bio: Professor of physical therapy with research interests in clinical reasoning, stress and adaptation.
+bio: Professor of physical therapy interested in developing a unified physiological theory of adaptation as a conceptual foundation of physical therapy practice while considering its logical and epistemological implications.
 interests:
   - Causation
   - Adaptation
@@ -48,4 +48,4 @@ title: Sean Collins
 email: ""
 ---
 
-Professor of Physical Therapy with a teaching emphasis on clinical inquiry, reasoning, clinical physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program but relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Scholarly interests including developing theory that forms the conceptual foundation of physical therapy practice (causation, adaptation, systems) and how these concepts influence clinical reasoning. 
+Professor of Physical Therapy with a teaching emphasis on clinical inquiry, reasoning, clinical physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program but relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Scholarly interests include developing a unified physiological theory of adaptation as a conceptual foundation of physical therapy practice while considering its logical and epistemological implications.
