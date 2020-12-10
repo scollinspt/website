@@ -7,7 +7,7 @@ summary: 'Supports the hypothesis that (a) job strain is associated with reducti
 authors:
 - Sean M Collins
 - Robert A Karasek
-tags: [HRV, Job strain, Stress Physiology, Cardiac regulation, Exhaustion, Vagal cardiac control]
+tags: [HRV, Job strain, Adaptation energy, Stress Physiology, Cardiac regulation, Exhaustion, Vagal cardiac control]
 categories: []
 date: '2010-03-01'
 lastmod: 2020-08-28T13:01:30+02:00

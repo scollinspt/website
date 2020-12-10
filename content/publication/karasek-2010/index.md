@@ -11,7 +11,7 @@ authors:
 - Alicja Bortkiewicz
 - Marco Ferrario
 
-tags: [HRV, Stress Physiology, Stress Theory, Job Strain, Cardiac disease risk, Psychosocial factors, Occupational stress]
+tags: [HRV, Stress Physiology, Stress Theory, Job Strain, Cardiac disease risk, Psychosocial factors, Occupational stress, causal analysis]
 categories: []
 date: '2010-10-01'
 lastmod: 2020-08-28T13:01:30+02:00
