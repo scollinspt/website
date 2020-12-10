@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Adaptative Dynamics
 layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/media/` folder).
