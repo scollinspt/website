@@ -8,7 +8,7 @@ authors:
 - Amy Burnell
 - Sean M Collins
 - Bruce A Young
-tags: [Anatomical analysis, Adaptation energy]
+tags: [Anatomical analysis]
 categories: []
 date: '2012-02-01'
 lastmod: 2020-08-28T13:01:30+02:00
