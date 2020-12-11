@@ -30,13 +30,13 @@ organizations:
     url: https://www.plymouth.edu/
 education:
   courses:
-    - course: ScD in Ergonomics (Stress physiology)
+    - course: ScD, Ergonomics (Stress physiology)
       institution: University of Massachusetts Lowell
       year: 2003
-    - course: MS in Physical Therapy
+    - course: MS, Physical Therapy
       institution: University of Massachusetts Lowell
       year: 1994
-    - course: BS in Exercise Physiology
+    - course: BS, Exercise Physiology
       institution: University of Massachusetts Lowell
       year: 1992
 superuser: true
