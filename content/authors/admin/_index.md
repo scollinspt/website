@@ -30,7 +30,7 @@ organizations:
     url: https://www.plymouth.edu/
 education:
   courses:
-    - course: ScD in Ergonomics & Epidemiology
+    - course: ScD in Ergonomics (Stress physiology)
       institution: University of Massachusetts Lowell
       year: 2003
     - course: MS in Physical Therapy
