@@ -1,12 +1,12 @@
 ---
-role: Professor of Physical Therapy
+role: Professor
 avatar_filename: avatar.jpg
-bio: Professor of physical therapy interested in developing a unified physiological theory of adaptation as a conceptual foundation of physical therapy practice while considering its logical and epistemological implications.
+bio: Scholarship focuses on the development of a unified physiological theory of adaptation and stress disequilibrium.
 interests:
-  - Causation
-  - Adaptation
-  - Systems theory
-  - Clinical reasoning
+  - Adaptation Energy
+  - Stress Disequilibrium
+  - Complex Adaptive Systems
+
   
 
 social:
@@ -48,4 +48,4 @@ title: Sean Collins
 email: ""
 ---
 
-Professor of Physical Therapy with a teaching emphasis on clinical inquiry, reasoning, clinical physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program but relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Scholarly interests include developing a unified physiological theory of adaptation as a conceptual foundation of physical therapy practice while considering its logical and epistemological implications.
+Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Current scholarly interests include developing a unified physiological theory of adaptation and stress disequilibrium.
