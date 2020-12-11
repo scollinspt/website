@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Part III
 summary: Under development
-weight: 3
+weight: 4
 
 # Page metadata.
 title: Part III
