@@ -3,11 +3,11 @@ role: Professor
 avatar_filename: avatar.jpg
 bio: Scholarship focuses on the development of a unified physiological theory of adaptation and stress disequilibrium.
 interests:
-  - Adaptation Energy
-  - Stress Disequilibrium
-  - Complex Adaptive Systems
+  - Adaptation energy
+  - Stress disequilibrium
+  - Physiological theory
+  - Complex adaptive systems
 
-  
 
 social:
   - icon: envelope
@@ -48,4 +48,4 @@ title: Sean Collins
 email: ""
 ---
 
-Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Current scholarly interests include developing a unified physiological theory of adaptation and stress disequilibrium.
+Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Current scholarship includes developing a unified physiological theory of adaptation and stress disequilibrium.
