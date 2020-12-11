@@ -15,16 +15,16 @@ tags: [HRV, Stress Physiology, Stress Theory, Job Strain, Cardiac disease risk, 
 categories: []
 date: '2010-10-01'
 lastmod: 2020-08-28T13:01:30+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: 'Right'
-  preview_only: true
+#image:
+#  caption: ''
+#  focal_point: 'Right'
+#  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
