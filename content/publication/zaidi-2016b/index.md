@@ -11,7 +11,7 @@ tags: [HRV, Orthostatic stress, Pulse transit time, QRS duration]
 categories: []
 date: '2016-03-01'
 lastmod: 2020-08-28T13:01:30+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
