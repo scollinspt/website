@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Introduction
+linktitle: Part II
 summary: Under development
-weight: 1
+weight: 2
 
 # Page metadata.
-title: Introduction
+title: Part II
 date: "2020-12-09T00:00:00Z"
 lastmod: "2020-129-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,13 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  Adaptation:
-    name: Introduction
-    weight: 1
+  Clinical Inquiry:
+    name: Part II
+    weight: 2
 ---
 
-## Purpose
-
-Under development
-
-## Context
+## Adaptation
