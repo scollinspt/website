@@ -2,7 +2,7 @@
 title: Physiological Information & Adaptation
 summary: Physiological information & adaptation is a career long project initiated with my dissertation that attempts to understand the physiological processes of adaptation to stress with dual consideration to energy and information
 tags:
-- Adaptive Energy
+- Adaptation Energy
 - Stress Physiology
 
 date: "2020-12-13T00:00:00Z"
