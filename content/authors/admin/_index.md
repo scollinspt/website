@@ -1,10 +1,10 @@
 ---
 role: Professor of Physical Therapy
 avatar_filename: avatar.jpg
-bio: A scholar with wide ranging interests related to his field of physical therapy, including clinical inquiry (logic, epistemology and reasoning) and physiological information; and related to a devotional life including Christian Theology, apologetics and spiritual disciplines.
+bio: A scholar with wide ranging interests related to his field of physical therapy, including clinical inquiry (logic, epistemology and reasoning) and physiological information; and related to a devotional life including Christian Theology, Apologetics and Spiritual Disciplines.
 interests:
   - Clinical inquiry
-  - Physiological information
+  - Physiological information & adaptation
   - Christian Theology & Apologetics
 
 social:
@@ -46,4 +46,4 @@ title: Sean Collins
 email: ""
 ---
 
-Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Wide ranging scholarly interests related to his field of physical therapy including clinical inquiry (logic, epistemology and reasoning) and physiological information; and related to a devotional life including Christian Theology, apologetics and spiritual disciplines.
+Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Wide ranging scholarly interests related to his field of physical therapy including clinical inquiry (logic, epistemology and reasoning) and physiological information; and related to a devotional life including Christian Theology, Apologetics and Spiritual Disciplines.
