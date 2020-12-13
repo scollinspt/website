@@ -8,6 +8,7 @@ tags:
 - causal models
 - Probability
 - Inference
+- Logic
 date: "2020-12-13T00:00:00Z"
 weight: 20
 
