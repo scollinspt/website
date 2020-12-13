@@ -3,9 +3,9 @@ role: Professor of Physical Therapy
 avatar_filename: avatar.jpg
 bio: A scholar with wide ranging interests related to his field of physical therapy, including clinical inquiry (logic, epistemology and reasoning) and physiological information; and related to a devotional life including Christian Theology, Apologetics and Spiritual Disciplines.
 interests:
+  - Christian Theology & Apologetics
   - Clinical inquiry
   - Physiological information & adaptation
-  - Christian Theology & Apologetics
 
 social:
   - icon: envelope
