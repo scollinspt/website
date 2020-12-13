@@ -1,13 +1,11 @@
 ---
-role: Professor
+role: Professor of Physical Therapy
 avatar_filename: avatar.jpg
-bio: Scholarship focuses on models and measurement of physiological dynamics to understand adaptation and stress disequilibrium.
+bio: A scholar with wide ranging interests related to his field of physical therapy, including clinical inquiry (logic, epistemology and reasoning) and physiological information; and related to a devotional life including Christian Theology, apologetics and spiritual disciplines.
 interests:
-  - Physiological dynamics
-  - Stress disequilibrium
-  - Complex adaptive systems
   - Clinical inquiry
-
+  - Physiological information
+  - Christian Theology & Apologetics
 
 social:
   - icon: envelope
@@ -48,4 +46,4 @@ title: Sean Collins
 email: ""
 ---
 
-Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Current scholarship focuses on models and measurement of physiological dynamics to understand adaptation and stress disequilibrium.
+Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Wide ranging scholarly interests related to his field of physical therapy including clinical inquiry (logic, epistemology and reasoning) and physiological information; and related to a devotional life including Christian Theology, apologetics and spiritual disciplines.
