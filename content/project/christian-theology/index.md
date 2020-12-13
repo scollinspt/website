@@ -12,7 +12,7 @@ weight: 10
 external_link: ""
 
 image:
-  caption: 
+  caption: Thank you to [Gary Moore](https://www.myevensong.com/) for the photo!
   focal_point: Smart
 
 # links:
