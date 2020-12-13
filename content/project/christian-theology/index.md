@@ -12,7 +12,7 @@ weight: 10
 external_link: ""
 
 image:
-  caption: Thank you to Gary Moore for the photo! Visit Gary's site at [**My Evensong**](https://www.myevensong.com/)
+  caption: Thank you to Gary Moore for the photo! Visit Gary's site at [**My Evensong.com**](https://www.myevensong.com/)
   focal_point: Smart
 
 # links:
