@@ -2,8 +2,8 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 120  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Teaching in the DPT program
-  * Research
-  * Service
+  * 2015 - 2017 - Developed the DPT curriculum and program
+  * 2017 - 2020 - Implemented the DPT curriculum and program, achieved initial accreditation
+  * 2020 - Present - Professor
   """
 
 [[experience]]
