@@ -1,15 +1,13 @@
 ---
-title: Clinical Inquiry
-summary: Clinical inquiry is a career long project of philosophical inquiry into the foundations of physical therapy practice.
+title: Christian Theology, Apologetics & Spiritual Discipline
+summary: A devotional life project about the ultimately critical questions we all must face
 tags:
-- Clinical Inquiry
+- Theology
+- Apologetics
+- Spiritual Disciplines
 - Epistemology
-- Physical Therapy
-- causal models
-- Probability
-- Inference
 date: "2020-12-13T00:00:00Z"
-
+weight: 30
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -18,7 +16,7 @@ image:
   focal_point: Smart
 
 links:
-- icon:
+- icon: twitter
   icon_pack: 
   name: 
   url: 
@@ -35,4 +33,4 @@ url_video: ""
 slides: 
 ---
 
-Under development
+Coming soon: Project organization on Christian Theology, Apologetics & Spiritual Discipline
