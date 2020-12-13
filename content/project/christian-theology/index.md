@@ -7,7 +7,7 @@ tags:
 - Spiritual Disciplines
 - Epistemology
 date: "2020-12-13T00:00:00Z"
-weight: 30
+weight: 10
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

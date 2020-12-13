@@ -9,7 +9,7 @@ tags:
 - Probability
 - Inference
 date: "2020-12-13T00:00:00Z"
-weight: 10
+weight: 20
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
