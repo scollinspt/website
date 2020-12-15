@@ -21,22 +21,21 @@ menu:
     weight: 1
 ---
 
-# Part I - Introduction
+# Introduction
 
 ## Causal Models
 
-The ultimate goal of Part I is that the reader will recognize and utilize causal models as logico-mathematical representations of reality with which we practice (reason and make decisions), and from which we develop further understanding through research. The state of knowledge in the profession at any point in time is equivalent to the state of all the possible causal models we can build and from which we practice. 
+The ultimate goal of Part I is that the reader will recognize and utilize causal models as logico-mathematical representations of reality (including its uncertainty) with which we practice (reason and make decisions), and from which we develop further understanding through research. The state of knowledge in the profession at any point in time can be considered as equivalent to the set of all the possible causal models we can build and from which we practice; and when working with a patient we can consider the patient (at a moment in time) as an instantiation (a particular state) of one to several inter-connected causal models and that there is a complex underlying dynamic of change that is, at least partially, predicted from state to state by the causal model.
 
 ## Purpose
 
-Clinical Inquiry is being proposed as a system for clinical logic, epistemology and reasoning (CLEaR). The purpose of such an undertaking started to answer the question: What can be done to improve the utilization of research by physical therapists in practice? [1] It has now expanded to include explicit consideration of what can be done to improve clinical reasoning through the utilization of knowledge in practice. We accept the definition of knowledge as justified true belief.  Goals include increasing the effectiveness of inquiry to: generate knowledge through the rigorous rational (mental, mindful, reflective) interpretation of observations (structured as research, and experienced in practice); and utilize knowledge in both practice and continued research. It is proposed that even by making progress toward these goals we can better educate students in preparation for entry level and subsequently expert practice, reduce cognitive biases and errors in reasoning, and reduce variability in practice decisions in a way that clinical practice guidelines have not been able to achieve.
+Clinical Inquiry is being proposed as a system for clinical logic, epistemology and reasoning (CLEaR). The purpose of such an undertaking started to answer the question: What can be done to improve the utilization of research by physical therapists in practice? [1,2] It has now expanded to include explicit consideration of what can be done to improve clinical reasoning through the utilization of knowledge in practice. We accept the definition of knowledge as justified true belief.  Goals include increasing the effectiveness of inquiry to: generate knowledge through the rigorous rational (mental, mindful, reflective) interpretation of observations (structured as research, and experienced in practice); and utilize knowledge in both practice and continued research. It is proposed that even by making progress toward these goals we can better educate students in preparation for entry level and subsequently expert practice, reduce cognitive biases and errors in reasoning, and reduce variability in practice decisions in a way that clinical practice guidelines have not been able to achieve.
 
 
 Clinical Inquiry as a system includes clinical reasoning so it is helpful to define clinical reasoning. A complete understanding of this definition requires an understanding of inference (Chapter 3) so the reader is asked to keep this in mind while progressing through Chapters 1 and 2. Clinical reasoning includes making inferences iteratively across time (dynamic inference); and making decisions based on those inferences. Therefore, clinical reasoning is dynamic inference and decision making.  Clinical reasoning as a stream of dynamic inferences that enable clinical decision making are then combined with carrying out the decisions and in sum is called clinical practice. Therefore, clinical practice is combining decisions with carrying out those decisions. 
 
-￼
-[1] Jette, Alan M. "A Quantitative Analysis of Research Publications in Physical Therapy Journals-Invited Commentary." Physical Therapy 83, no. 2 (2003): 131-131.
-Collins, Sean M. "Complex system approaches: could they enhance the relevance of clinical research?." Physical therapy 85, no. 12 (2005): 1393-1394.
+- [1] Jette, Alan M. "A Quantitative Analysis of Research Publications in Physical Therapy Journals-Invited Commentary." Physical Therapy 83, no. 2 (2003): 131-131.
+- [2] Collins, Sean M. "Complex system approaches: could they enhance the relevance of clinical research?." Physical therapy 85, no. 12 (2005): 1393-1394.
 
 ## First Principles Approach
 
@@ -47,17 +46,17 @@ Where do we begin? Clinical Inquiry has the same issue of where to begin that pl
 Therefore, while this book focuses on the logic and epistemology of clinical reasoning it does so with underlying and unavoidable assumptions about metaphysics and value theory. Those assumptions are explained as necessary throughout the text. 
 
 
-[1] The reason for starting from first principles is to allow the author to make connections between the theoretical and practical at several steps and to consider clinical reasoning as both knowledge generating and knowledge utilizing practices.
-[2] Frame, John M. A history of western philosophy and theology. P&R Publishing, 2015.
-[3] Poythress, Vern S. Logic: A God-centered approach to the foundation of western thought. Crossway, 2013.
+- [1] The reason for starting from first principles is to allow the author to make connections between the theoretical and practical at several steps and to consider clinical reasoning as both knowledge generating and knowledge utilizing practices.
+- [2] Frame, John M. A history of western philosophy and theology. P&R Publishing, 2015.
+- [3] Poythress, Vern S. Logic: A God-centered approach to the foundation of western thought. Crossway, 2013.
 
 ## Logical & Epistemological Axioms
 
 Logic and epistemology offer tools that have a long history and have been demonstrated to be reasonably effective to address the questions and goals of our clinical inquiry. These areas of philosophy provide axioms (first principles) for rules to guide thought and address what and how something can be considered knowledge (known). The axioms included in our system come from Bhaskar’s critical realism [1] and Gries & Schneider’s equational logic [2]. From these axioms we develop an understanding of validity, inference, theorems, probability and causation. A clinical inquiry must be coherent, integrated and consistent. The communication of this clinical inquiry must also balance too much detail regarding how these theoretical foundations emerge to their practical implications and the need to be practical. Future revisions will expand upon connections currently accepted in an attempt to fulfill the requirement of being coherent, integrated and consistent.
 
 ￼
-[1] Most recently communicated in: Bhaskar, Roy. Enlightened common sense: The philosophy of critical realism. Routledge, 2016.
-[2] Gries, David, and Fred B. Schneider. A logical approach to discrete math. Springer Science & Business Media, 1993.
+- [1] Most recently communicated in: Bhaskar, Roy. Enlightened common sense: The philosophy of critical realism. Routledge, 2016.
+- [2] Gries, David, and Fred B. Schneider. A logical approach to discrete math. Springer Science & Business Media, 1993.
 
 ## Necessity of Logic & Epistemology
 
@@ -74,7 +73,7 @@ We keep three important and emerging concepts for physical therapy practice in m
 Systems are sets of interacting or interdependent component parts forming a complex/intricate whole.[1] While physical therapists work with the movement system at different hierarchical scales (cellular inflammation and whole body movement during functional tasks in various environments), they also work within broader systems (ethics / values systems, psychosocial systems and health systems). Therefore it seems worthwhile to have a broad perspective on systems and to understand the interactions between various system components. Additionally a conceptual focus on systems provides deeper insights into the human movement system - insights yet to be realized. And combined with an understanding of adaptation and causation (both below) we are better prepared to understand, study and apply empirical evidence to knowledge generation and knowledge application.
 
 ￼
-[1] https://en.wikipedia.org/wiki/System, Retrieved May 2, 2016
+- [1] https://en.wikipedia.org/wiki/System, Retrieved May 2, 2016
 
 ### Adaptation
 
@@ -82,7 +81,7 @@ Something we know about systems is that they can change with time. A system that
 
 Something that makes physical therapy unique is the attempt to curtail adaptations across such a large hierarchy (biological through social). Emerging beyond the individual, the APTA's current Vision statement explicitly calls for a "transformation of society" which is essentially an adaptation of culture. An understanding of systems and system adaptation (dynamic systems, complex adaptive systems) should help prepare the profession for innovation and transformation. Understanding the logic of adaptation enables us to see not only how things are with better understanding of complex adaptive interactions, but see how things could be improved through adaptive processes. 
 
-￼[1] Holland, John Henry. "Hidden Order: How Adaptation Builds Complexity Addison–Wesley." Reading, MA (1995).
+- [1] Holland, John Henry. "Hidden Order: How Adaptation Builds Complexity Addison–Wesley." Reading, MA (1995).
 
 ### Causation
 
