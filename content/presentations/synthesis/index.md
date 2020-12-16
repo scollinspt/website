@@ -5,7 +5,7 @@ title: "Synthesis"
 subtitle: 'Causal models, causal knowledge'
 event: "APTA Combined Sections Meeting"
 event_url:
-location: New Orleans
+location:
 address:
   street:
   city:
