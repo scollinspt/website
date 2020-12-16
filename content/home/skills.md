@@ -2,8 +2,8 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 125  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -15,9 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "university"
+  icon_pack = "fas"
+  name = "Higher Education"
+  description = ""
+
+[[feature]]
   icon = "heartbeat"
   icon_pack = "fas"
-  name = "Cardiovascular Dynamics"
+  name = "Clinical Physiology"
   description = ""
  
 [[feature]]
