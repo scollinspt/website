@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Making Causal Inference Explicit"
-subtitle: 'Implications for physical therapy practice, research and education'
-event: 'APTA Educational Leadership Conference'
+title: "APHPT Monthly Conversation"
+subtitle: 'Core PT Concepts'
+event: 'APHPT Monthly Conversation'
 event_url:
 location:
 address:
@@ -17,15 +17,15 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2017-10-01T12:00:00+02:00
+date: 2017-11-15T12:00:00+02:00
 # date_end: 2020-07-30T13:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 # publishDate: 2020-08-30T00:34:30+02:00
 
-authors: [Sean M Collins, Kelly Legacy]
-tags: [causal models, Causal Inference, Statistical Inference]
+authors: []
+tags: [causal models, Clinical Reasoning, Causal Inference]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -49,8 +49,8 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: 
 url_code:
-url_pdf: /media/ELC_Causal_Inference.pdf
-url_video:
+url_pdf:
+url_video: https://youtu.be/MCJhoDg0a9I
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -67,4 +67,4 @@ slides: ""
 projects: ["clinical-inquiry"]
 
 ---
-This presentation introduced PT educators to the use of causal inference as a foundational concept in PT education due to its role in reserach and practice and was given in Baltimore MD on October 1, 2017 with my co-presentor and colleague Dr. Kelly Legacy.
+A monthly conversation with the Academy of Prevention and Health Promotion Therapuetics hosted by its founder and president Mike Eisenhart on November 15, 2017. Our conversation focused on causation, adaptation and systems (complex adaptive systems) as the core to physical therapy practice.

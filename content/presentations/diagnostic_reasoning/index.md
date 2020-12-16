@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "APHPT Monthly Conversation"
-subtitle: 'Core PT Concepts'
-event: 'APHPT Monthly Conversation'
+title: "Diagnostic Reasoning"
+subtitle: 'Cause, models and inference'
+event: 'NH Rehabilitation Administrators Continuing Education Session'
 event_url:
 location:
 address:
@@ -12,23 +12,23 @@ address:
   region:
   postcode:
   country:
-summary:  'A presentation (powerpoint slides) given on causal models as a representation of a synthesis of knowledge for practice from the perspective of critical realist epistemology'
+summary:  'A day long workshop on the use of causal models to improve diagnostic inference and therefore reasoning'
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2017-11-15T12:00:00+02:00
+date: 2017-04-01T12:00:00+02:00
 # date_end: 2020-07-30T13:00:00+02:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: 2020-08-30T00:34:30+02:00
 
-authors: []
-tags: [causal models, Clinical Reasoning, Causal Inference]
+authors: [Sean M Collins, Kelly Legacy]
+tags: [causal models, Causal Inference, Statistical Inference]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -49,8 +49,8 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: 
 url_code:
-url_pdf:
-url_video: https://youtu.be/MCJhoDg0a9I
+url_pdf: /media/DiagnosticReasoning.pdf
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -67,4 +67,4 @@ slides: ""
 projects: ["clinical-inquiry"]
 
 ---
-A monthly conversation with the Academy of Prevention and Health Promotion Therapuetics hosted by its founder and president Mike Eisenhart on November 15, 2017. Our conversation focused on causation, adaptation and systems (complex adaptive systems) as the core to physical therapy practice.
+This presentation was developed for a continuing education course for the New Hampshire Association of Rehabilitation Administrators by the Plymouth State University Doctor of Physical Therapy Program and was delivered in Concord NH on April 1, 2017.
