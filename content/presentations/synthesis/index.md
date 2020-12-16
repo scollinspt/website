@@ -13,8 +13,7 @@ address:
   postcode:
   country:
 summary:  "A presentation (powerpoint slides) given on causal models as a representation of a synthesis of knowledge for practice from the perspective of critical realist epistemology"
-abstract: "Causal models represent a synthesis of knowledge for practice with a critical realist epistemology that explicitly identifies the human mind as part of the process of knowledge and where the models that are constructed fits with reality even when we cannot empirically verify each and every component of such models; but where knowledge assumptions that are encoded in the models are clear, combine knowledge with reasoning, and are subject to empirical verification when possible.
-"
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
