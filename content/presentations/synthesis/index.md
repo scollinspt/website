@@ -67,4 +67,4 @@ slides: ""
 projects: ["clinical-inquiry"]
 
 ---
-
+Causal models represent a synthesis of knowledge for practice with a critical realist epistemology that explicitly identifies the human mind as part of the process of knowledge and where the models that are constructed fits with reality even when we cannot empirically verify each and every component of such models; but where knowledge assumptions that are encoded in the models are clear, combine knowledge with reasoning, and are subject to empirical verification when possible.
