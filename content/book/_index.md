@@ -22,9 +22,9 @@ header:
 
 ### Part II. Adaptation
 
-#### Chapter 8. Evidence for Causation
-#### Chapter 9. General Adaptation Syndrome
-#### Chapter 10. Allostasis & Adaptive Dynamics
+#### Chapter 8. Causation of Adaptation
+#### Chapter 9. Evidence for Causation
+#### Chapter 10. Complex Adaptive Systems
 #### Chapter 11. Exposure Modeling
 #### Chapter 12. Leverage & Thresholds
 #### Chapter 13. Strength
@@ -35,8 +35,8 @@ header:
 
 ### Part III. Systems
 
-#### Chapter 18. Consistency & Coherence
-#### Chapter 19. Complex Adaptive Systems
-#### Chapter 20. Psychosocial - Behavior
-#### Chapter 21. Psychosocial - Environment
-#### Chapter 22. Economics
+#### Chapter 18. Movement
+#### Chapter 19. Psychosocial - Behavior
+#### Chapter 20. Psychosocial - Environment
+#### Chapter 21. Economics
+#### Chapter 22. Ethics & Values

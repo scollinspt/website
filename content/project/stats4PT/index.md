@@ -1,17 +1,15 @@
 ---
-title: Clinical Inquiry
-summary: Clinical inquiry is a career long project of philosophical inquiry into the foundations of physical therapy practice.
+title: Stats4PT
+summary: A project to develop and disseminate approaches to statistical inference that provide appropriate consideration to causation and methods of building causal models for practice
 tags:
+- causal models
+- Statistical Inference
 - Clinical Inquiry
 - Epistemology
-- Physical Therapy
-- causal models
 - Probability
-- Inference
-- Logic
-date: "2020-12-16T00:00:00Z"
-weight: 10
 
+date: "2020-12-15T00:00:00Z"
+weight: 20
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -20,7 +18,7 @@ image:
   focal_point: Right
 
 # links:
-# - icon:
+# - icon: 
 #   icon_pack: 
 #   name: 
 #   url: 
@@ -34,9 +32,8 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides: example
 ---
-
-Clinical inquiry is a career long project of philosophical inquiry into the foundations of physical therapy practice.
+A project to develop and disseminate approaches to statistical inference that provide appropriate consideration to causation and methods of building causal models for practice
 
 Under development

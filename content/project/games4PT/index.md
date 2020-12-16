@@ -1,11 +1,11 @@
 ---
-title: Physiological Information & Adaptation
-summary: Physiological information & adaptation is a career long project initiated with my dissertation that attempts to understand the physiological processes of adaptation to stress with dual consideration to energy and information
+title: Games4PT
+summary: A project that aims to develop appropriate clinical inquiry through game play.
 tags:
-- Adaptation Energy
-- Stress Physiology
+- Game Theory
+- Clinical Inquiry
 
-date: "2020-12-13T00:00:00Z"
+date: "2020-12-16T00:00:00Z"
 weight: 30
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -31,5 +31,7 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
+A project that aims to develop appropriate clinical inquiry through game play.
 
 Under development

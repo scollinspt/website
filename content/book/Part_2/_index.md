@@ -20,5 +20,17 @@ menu:
     name: Part II
     weight: 2
 ---
+Under development
 
-## Adaptation
+### Part II. Adaptation
+
+#### Chapter 8. Causation of Adaptation
+#### Chapter 9. Evidence for Causation
+#### Chapter 10. Complex Adaptive Systems
+#### Chapter 11. Exposure Modeling
+#### Chapter 12. Leverage & Thresholds
+#### Chapter 13. Strength
+#### Chapter 14. Endurance
+#### Chapter 15. Coordination
+#### Chapter 16. Balance
+#### Chapter 17. Skill

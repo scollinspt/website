@@ -6,8 +6,8 @@ tags:
 - Apologetics
 - Spiritual Disciplines
 - Epistemology
-date: "2020-12-13T00:00:00Z"
-weight: 10
+date: "2020-12-16T00:00:00Z"
+weight: 40
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -32,4 +32,6 @@ image:
 slides: 
 ---
 
-Coming soon: Project organization on Christian Theology, Apologetics & Spiritual Discipline
+A devotional life project about the ultimately critical questions we all must face
+
+Under development (isn't that the truth!)

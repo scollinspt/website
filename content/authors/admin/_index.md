@@ -3,9 +3,11 @@ role: Professor of Physical Therapy
 avatar_filename: avatar.jpg
 bio: A scholar with wide ranging interests related to his field of physical therapy, including clinical inquiry (logic, epistemology and reasoning) and physiological information; and related to a devotional life including Christian Theology, Apologetics and Spiritual Disciplines.
 interests:
-  - Christian Theology & Apologetics
+
   - Clinical inquiry
-  - Physiological information & adaptation
+  - Adaptation
+  - Complex adaptive systems
+  - Christian Theology & Apologetics
 
 social:
   - icon: envelope
@@ -28,7 +30,7 @@ organizations:
     url: https://www.plymouth.edu/
 education:
   courses:
-    - course: ScD, Ergonomics (Stress physiology)
+    - course: ScD, Ergonomics & Epidemiology
       institution: University of Massachusetts Lowell
       year: 2003
     - course: MS, Physical Therapy
@@ -46,4 +48,4 @@ title: Sean Collins
 email: ""
 ---
 
-Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Wide ranging scholarly interests related to his field of physical therapy including clinical inquiry (logic, epistemology and reasoning) and physiological information; and related to a devotional life including Christian Theology, Apologetics and Spiritual Disciplines.
+Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and research). Wide ranging scholarly interests related to his field of physical therapy including clinical inquiry (logic, epistemology and reasoning) and adaptation (complex adaptive systems); and related to a devotional life including Christian Theology, Apologetics and Spiritual Disciplines.
