@@ -1,5 +1,6 @@
 ---
 title: Stats4PT
+subtitle: 'Causal models from research for practice'
 summary: A project to develop and disseminate approaches to statistical inference that provide appropriate consideration to causation and methods of building causal models for practice
 tags:
 - causal models

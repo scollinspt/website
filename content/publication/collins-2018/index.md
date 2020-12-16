@@ -6,7 +6,7 @@ subtitle: ''
 summary: 'The synthesis is that practice is based on causal knowledge and that we can encode causal knowledge with causal models.'
 authors:
 - Sean M Collins
-tags: [epistemology, causal models, knowledge based practice, differential diagnosis, critical realism]
+tags: [epistemology, causal models, knowledge based practice, differential diagnosis, critical realism, Clinical Inquiry]
 categories: []
 date: '2018-10-01'
 lastmod: 2020-08-28T13:01:30+02:00
