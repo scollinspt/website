@@ -1,5 +1,5 @@
 ---
-title: Presentations
+title: Selected Presentations
 
 # View.
 #   1 = List
@@ -12,3 +12,4 @@ header:
   caption: ""
   image: ""
 ---
+For a full list of presentations provided you're welcome to view my [CV](/media/cv.pdf). These selected presentations are most closely associated with my current scholarship
