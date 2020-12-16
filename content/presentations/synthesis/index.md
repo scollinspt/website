@@ -3,7 +3,7 @@
 
 title: "Synthesis"
 subtitle: 'Causal models, causal knowledge'
-event: "APTA Combined Sections Meeting"
+event: 'APTA Combined Sections Meeting'
 event_url:
 location:
 address:
@@ -12,7 +12,7 @@ address:
   region:
   postcode:
   country:
-summary:  "A presentation (powerpoint slides) given on causal models as a representation of a synthesis of knowledge for practice from the perspective of critical realist epistemology"
+summary:  'A presentation (powerpoint slides) given on causal models as a representation of a synthesis of knowledge for practice from the perspective of critical realist epistemology'
 abstract: ""
 
 # Talk start and end times.
@@ -25,7 +25,7 @@ all_day: false
 # publishDate: 2020-08-30T00:34:30+02:00
 
 authors: []
-tags: []
+tags: [causal models, Causal Inference, Statistical Inference]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -67,4 +67,4 @@ slides: ""
 projects: ["clinical-inquiry"]
 
 ---
-Causal models represent a synthesis of knowledge for practice with a critical realist epistemology that explicitly identifies the human mind as part of the process of knowledge and where the models that are constructed fits with reality even when we cannot empirically verify each and every component of such models; but where knowledge assumptions that are encoded in the models are clear, combine knowledge with reasoning, and are subject to empirical verification when possible.
+Presentation given at the APTA Combined Sections meeting in 2018 on causal models. In summary, causal models represent a synthesis of knowledge for practice with a critical realist epistemology that explicitly identifies the human mind as part of the process of knowledge and where the models that are constructed fits with reality even when we cannot empirically verify each and every component of such models; but where knowledge assumptions that are encoded in the models are clear, combine knowledge with reasoning, and are subject to empirical verification when possible.
