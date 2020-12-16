@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Synthesis"
-event: "Linda Crane Memorial Lecture Award Presentation at the APTA Combined Sections Meeting 2018"
+subtitle: 'Causal models, causal knowledge'
+event: "APTA Combined Sections Meeting"
 event_url:
 location: New Orleans
 address:
@@ -17,7 +18,7 @@ abstract: "Causal models represent a synthesis of knowledge for practice with a 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-28T12:00:00+02:00
+date: 2018-02-12T12:00:00+02:00
 # date_end: 2020-07-30T13:00:00+02:00
 all_day: false
 
@@ -28,7 +29,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
