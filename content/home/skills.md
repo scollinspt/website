@@ -17,7 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "university"
   icon_pack = "fas"
-  name = "Higher Education"
+  name = "PT Education"
+  description = ""
+
+[[feature]]
+  icon = "book"
+  icon_pack = "fas"
+  name = "Philosophy"
+  description = ""
+
+[[feature]]
+  icon = "dice"
+  icon_pack = "fas"
+  name = "Probability"
   description = ""
 
 [[feature]]
@@ -37,7 +49,7 @@ subtitle = ""
   icon_pack = "fab"
   name = "Scientific Computation"
   description = ""
-
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
