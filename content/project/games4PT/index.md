@@ -1,7 +1,7 @@
 ---
 title: Games4PT
-subtitle: 'Play to practice'
-summary: Games4PT aims to develop the use of clinical reasoning (including the use of causal models) through clinically appropriate simulations, scenarios and role playing games for the purpose of entry level and continuing education
+subtitle: ''
+summary: The Games4PT project aims to develop games with the goal of improving clinical reasoning (including the use of causal models) through clinically appropriate simulations, scenarios and role playing games for both entry level and continuing education
 tags:
 - Game Theory
 - Clinical Inquiry
@@ -33,6 +33,4 @@ image:
 slides: example
 ---
 
-Games4PT aims to develop the use of clinical reasoning (including the use of causal models) through clinically appropriate simulations, scenarios and role playing games for the purpose of entry level and continuing education.
-
-Under development
+The Games4PT project (under development) aims to develop games with the goal of improving clinical reasoning (including the use of causal models) through clinically appropriate simulations, scenarios and role playing games for both entry level and continuing education.
