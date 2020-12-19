@@ -1,7 +1,7 @@
 ---
 title: Stats4PT
 subtitle: 'Causal models from research for practice'
-summary: Stats4PT developes causal models from research for practice. Its dual goal is to develop and disseminate methods and models. Methods of statistical anc causal inference that provide appropriate consideration to build models; and causal models for practice.
+summary: Stats4PT developes causal models from research for practice. Its dual goal is to develop and disseminate methods and models. Methods of statistical and causal inference that provide appropriate consideration to build models; and causal models for practice.
 tags:
 - causal models
 - Statistical Inference
