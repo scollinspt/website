@@ -22,7 +22,9 @@ menu:
 ---
 Under development
 
-### Part III. The Reasons - "Why" - (Ethics & Values)
+### Part III. The Reasons - "Why"
 
-#### Chapter 15: What is a profession? 
-#### Chapter 16 - ? TBD
+#### Introduction to Ethics & Values  
+#### Chapter 16. What is a profession?
+#### Chapter 17-? TBD
+

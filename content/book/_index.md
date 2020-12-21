@@ -10,8 +10,9 @@ header:
 
 ## Philosophical Foundations for Practice
 
-### Part I. The Approach - "How" - (Logic & Epistemology)
+### Part I. The Approach - "How"
 
+#### Introduction to Logic & Epistemology
 #### Chapter 1. Axioms
 #### Chapter 2. Validity
 #### Chapter 3. Inference
@@ -20,8 +21,9 @@ header:
 #### Chapter 6. Causation
 #### Chapter 7. Models
 
-### Part II. The Object - "What" - (Meta-physics)
+### Part II. The Object - "What"
 
+#### Introduction to Metaphysics
 #### Chapter 8. Complex Adaptive Systems 
 #### Chapter 9. Mechanisms of Adaptation 
 #### Chapter 10. Evidence for Causation
@@ -31,7 +33,8 @@ header:
 #### Chapter 14. Environment
 #### Chapter 15. Economics
 
-### Part III. The Reasons - "Why" - (Ethics & Values)
+### Part III. The Reasons - "Why"
 
-#### Chapter 15: What is a profession? 
-#### Chapter 16 - ? TBD
+#### Introduction to Ethics & Values  
+#### Chapter 16. What is a profession?
+#### Chapter 17-? TBD
