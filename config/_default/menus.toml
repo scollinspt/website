@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-   name = "Book"
-   url = "/book/"
+   name = "Notebook"
+   url = "/notebook/"
    weight = 40
 
 [[main]]
