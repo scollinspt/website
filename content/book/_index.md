@@ -8,7 +8,9 @@ header:
   image: ""
 ---
 
-### Part I. The Approach (Logic & Epistemology)
+## Philosophical Foundations for Practice
+
+### Part I. The Approach - "How" - (Logic & Epistemology)
 
 #### Chapter 1. Axioms
 #### Chapter 2. Validity
@@ -18,22 +20,18 @@ header:
 #### Chapter 6. Causation
 #### Chapter 7. Models
 
-### Part II. The Object (Meta-physics)
+### Part II. The Object - "What" - (Meta-physics)
 
 #### Chapter 8. Complex Adaptive Systems 
-#### Chapter 9. Causation of Adaptation 
+#### Chapter 9. Mechanisms of Adaptation 
 #### Chapter 10. Evidence for Causation
-#### Chapter 11. Exposure Modeling
-#### Chapter 12. Leverage & Thresholds
-#### Chapter 13. Movement
-#### Chapter 14. Psychosocial - Behavior
-#### Chapter 15. Psychosocial - Environment
-#### Chapter 16. Economics
+#### Chapter 11. Adaptive Exposures
+#### Chapter 12. Movement
+#### Chapter 13. Behavior
+#### Chapter 14. Environment
+#### Chapter 15. Economics
 
-### Part III. The Reasons (Ethics & Values)
+### Part III. The Reasons - "Why" - (Ethics & Values)
 
-#### Chapter 18. 
-#### Chapter 19. 
-#### Chapter 20. 
-#### Chapter 21. 
-#### Chapter 22. 
+#### Chapter 15: What is a profession? 
+#### Chapter 16 - ? TBD

@@ -7,7 +7,7 @@ weight: 3
 # Page metadata.
 title: Part II
 date: "2020-12-09T00:00:00Z"
-lastmod: "2020-129-09T00:00:00Z"
+lastmod: "2020-12-21T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: book  # Do not modify.
@@ -22,15 +22,13 @@ menu:
 ---
 Under development
 
-### Part II. Adaptation
+### Part II. The Object - "What" - (Meta-physics)
 
-#### Chapter 8. Causation of Adaptation
-#### Chapter 9. Evidence for Causation
-#### Chapter 10. Complex Adaptive Systems
-#### Chapter 11. Exposure Modeling
-#### Chapter 12. Leverage & Thresholds
-#### Chapter 13. Strength
-#### Chapter 14. Endurance
-#### Chapter 15. Coordination
-#### Chapter 16. Balance
-#### Chapter 17. Skill
+#### Chapter 8. Complex Adaptive Systems 
+#### Chapter 9. Mechanisms of Adaptation 
+#### Chapter 10. Evidence for Causation
+#### Chapter 11. Adaptive Exposures
+#### Chapter 12. Movement
+#### Chapter 13. Behavior
+#### Chapter 14. Environment
+#### Chapter 15. Economics

@@ -7,7 +7,7 @@ weight: 4
 # Page metadata.
 title: Part III
 date: "2020-12-09T00:00:00Z"
-lastmod: "2020-129-09T00:00:00Z"
+lastmod: "2020-12-21T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: book  # Do not modify.
@@ -22,10 +22,7 @@ menu:
 ---
 Under development
 
-### Part III. Systems
+### Part III. The Reasons - "Why" - (Ethics & Values)
 
-#### Chapter 18. Movement
-#### Chapter 19. Psychosocial - Behavior
-#### Chapter 20. Psychosocial - Environment
-#### Chapter 21. Economics
-#### Chapter 22. Ethics & Values
+#### Chapter 15: What is a profession? 
+#### Chapter 16 - ? TBD
