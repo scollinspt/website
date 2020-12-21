@@ -4,13 +4,13 @@ layout: book  # Do not modify.
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Conceptual Foundations for Practice"
+  caption: "Philosophical Foundations for Practice"
   image: ""
 ---
 
-## Conceptual Foundations for Practice
+## Philosophical Foundations for Practice
 
-### Part I. Causal Models
+### Part I. The Approach (Logic & Epistemology)
 
 #### Chapter 1. Axioms
 #### Chapter 2. Validity
@@ -20,23 +20,22 @@ header:
 #### Chapter 6. Causation
 #### Chapter 7. Models
 
-### Part II. Adaptation
+### Part II. The Object (Meta-physics)
 
-#### Chapter 8. Causation of Adaptation
-#### Chapter 9. Evidence for Causation
-#### Chapter 10. Complex Adaptive Systems
+#### Chapter 8. Complex Adaptive Systems 
+#### Chapter 9. Causation of Adaptation 
+#### Chapter 10. Evidence for Causation
 #### Chapter 11. Exposure Modeling
 #### Chapter 12. Leverage & Thresholds
-#### Chapter 13. Strength
-#### Chapter 14. Endurance
-#### Chapter 15. Coordination
-#### Chapter 16. Balance
-#### Chapter 17. Skill
+#### Chapter 13. Movement
+#### Chapter 14. Psychosocial - Behavior
+#### Chapter 15. Psychosocial - Environment
+#### Chapter 16. Economics
 
-### Part III. Systems
+### Part III. The Reasons (Ethics & Values)
 
-#### Chapter 18. Movement
-#### Chapter 19. Psychosocial - Behavior
-#### Chapter 20. Psychosocial - Environment
-#### Chapter 21. Economics
-#### Chapter 22. Ethics & Values
+#### Chapter 18. 
+#### Chapter 19. 
+#### Chapter 20. 
+#### Chapter 21. 
+#### Chapter 22. 
