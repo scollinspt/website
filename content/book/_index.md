@@ -1,5 +1,5 @@
 ---
-title: Clinical Inquiry Notebook
+title: Clinical inquiry notebook
 layout: book  # Do not modify.
 
 # Optional header image (relative to `static/media/` folder).
@@ -7,8 +7,6 @@ header:
   caption: "Philosophical Foundations for Practice"
   image: ""
 ---
-
-## Philosophical Foundations for Practice
 
 ### Part I. The Approach (Logic & Epistemology)
 
