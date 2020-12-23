@@ -4,6 +4,7 @@ avatar_filename: avatar.jpg
 bio: A scholar with wide ranging philosophical interests related to his field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach), complex adaptive systems (metaphysics, ontology, i.e. the object), and related to a devotional life including Christian Theology, Apologetics and Spiritual Disciplines.
 interests:
 
+  - The Three Rs: **R**eading, w**R**iting, a**R**ithmetic
   - Clinical inquiry
   - Complex adaptive systems
   - Christian Theology & Apologetics
