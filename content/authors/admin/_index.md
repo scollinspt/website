@@ -25,7 +25,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/scollinspt
-- icon: envelope
+  - icon: envelope
     icon_pack: fas
     link: /#contact
 organizations:
