@@ -15,7 +15,7 @@ social:
     link: https://www.facebook.com/SeanCollinsPT/
   - icon: medium-m
     icon_pack: fab
-    link: https://www.facebook.com/SeanCollinsPT/
+    link: https://medium.com/@scollinspt
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Sean_Collins25
