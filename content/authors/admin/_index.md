@@ -10,13 +10,10 @@ interests:
   - Christian Theology & Apologetics
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/scollinspt
   - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/SeanCollinsPT/
+  - icon: medium-m
     icon_pack: fab
     link: https://www.facebook.com/SeanCollinsPT/
   - icon: researchgate
@@ -25,6 +22,9 @@ social:
   - icon: zotero
     icon_pack: ai
     link: https://www.zotero.org/scollinsptscd
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/scollinspt
 organizations:
   - name: Plymouth State University
     url: https://www.plymouth.edu/
@@ -44,7 +44,7 @@ user_groups:
   - Researchers
   - Visitors
 highlight_name: false
-title: Sean Collins
+title: Sean M. Collins
 email: ""
 ---
 
