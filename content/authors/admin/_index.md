@@ -1,21 +1,21 @@
 ---
 role: Professor of Physical Therapy
 avatar_filename: avatar.jpg
-bio: A scholar with wide ranging philosophical interests related to his field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach), complex adaptive systems (metaphysics, ontology, i.e. the object), and related to a devotional life including Christian Theology, Apologetics and Spiritual Disciplines.
+bio: A scholar with wide ranging interests related to the field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach), complex adaptive systems (metaphysics, ontology, i.e. the object) culminating in the development of plausible, defensible and clinically useful models.
 interests:
 
-  - Three Rs, **R**eading, w**R**iting, a**R**ithmetic
   - Clinical inquiry
-  - Complex adaptive systems
-  - Christian Theology & Apologetics
+  - Complex adaptive systems (clinical physiology)
+  - Cardiovascular & pulmonary physical therapy
+  - Human factors & ergonomics
 
 social:
-  - icon: facebook
-    icon_pack: fab
-    link: https://www.facebook.com/SeanCollinsPT/
-  - icon: medium-m
-    icon_pack: fab
-    link: https://medium.com/@scollinspt
+  # - icon: facebook
+  #   icon_pack: fab
+  #   link: https://www.facebook.com/SeanCollinsPT/
+  # - icon: medium-m
+  #   icon_pack: fab
+  #   link: https://medium.com/@scollinspt
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Sean_Collins25
@@ -51,4 +51,4 @@ title: Sean M. Collins
 email: ""
 ---
 
-Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and writing). Wide ranging philosophical interests related to his field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach), complex adaptive systems (metaphysics, ontology, i.e. the object), and related to a devotional life including Christian Theology, Apologetics and Spiritual Disciplines.
+Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and writing). Wide ranging interests related to the field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach), complex adaptive systems (metaphysics, ontology, i.e. the object) culminating in the development of plausible, defensible and clinically useful models.
