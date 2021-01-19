@@ -4,9 +4,9 @@ avatar_filename: avatar.jpg
 bio: A scholar with wide ranging interests related to the field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach), complex adaptive systems (metaphysics, ontology, i.e. the object) culminating in the development of plausible, defensible and clinically useful models.
 interests:
 
+  - Physical therapy
   - Clinical inquiry
   - Complex adaptive systems (clinical physiology)
-  - Cardiovascular & pulmonary physical therapy
   - Human factors & ergonomics
 
 social:
