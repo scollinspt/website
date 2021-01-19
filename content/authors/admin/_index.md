@@ -10,9 +10,12 @@ interests:
   - Human factors & ergonomics
 
 social:
-  # - icon: facebook
-  #   icon_pack: fab
-  #   link: https://www.facebook.com/SeanCollinsPT/
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/SeanCollinsPT/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/scollinspt1
   # - icon: medium-m
   #   icon_pack: fab
   #   link: https://medium.com/@scollinspt
