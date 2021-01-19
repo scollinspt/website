@@ -1,7 +1,7 @@
 ---
 role: Professor of Physical Therapy
 avatar_filename: avatar.jpg
-bio: A scholar with wide ranging interests related to the field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach), complex adaptive systems (metaphysics, ontology, i.e. the object) culminating in the development of plausible, defensible and clinically useful models.
+bio: Professor of physical therapy with wide ranging interests related to the field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach), complex adaptive systems (metaphysics, ontology, i.e. the object) culminating in the development of plausible, defensible and clinically useful models.
 interests:
 
   - Physical therapy
@@ -50,8 +50,8 @@ user_groups:
   - Researchers
   - Visitors
 highlight_name: false
-title: Sean M. Collins
+title: Sean Collins, PT, ScD
 email: ""
 ---
 
-Professor with a teaching emphasis on clinical inquiry, physiology and cardiopulmonary physical therapy. Founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on scholarship (teaching and writing). Wide ranging interests related to the field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach), complex adaptive systems (metaphysics, ontology, i.e. the object) culminating in the development of plausible, defensible and clinically useful models.
+Professor of physical therapy that founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on clinical practice and scholarship. Wide ranging interests related to the field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach), complex adaptive systems (metaphysics, ontology, i.e. the object) culminating in the development of plausible, defensible and clinically useful models.
