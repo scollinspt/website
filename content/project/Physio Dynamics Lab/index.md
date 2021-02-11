@@ -1,13 +1,11 @@
 ---
 title: 
 subtitle: 
-summary: The Physiological Dynamics Lab (PDL) investigates the clinical value multi-level, integrative physiological dynamics to inform and guide physical therapy practice aimed at improving patient safety, interventions and wellness from adulthood to elderhood.
+summary: The Physiological Dynamics Lab (PDL) investigates the clinical value of multi-level, integrative physiological dynamics to inform and guide physical therapy practice aimed at improving patient safety, interventions and wellness from adulthood to elderhood.
 tags:
-- causal models
-- Statistical Inference
-- Clinical Inquiry
-- Epistemology
-- Probability
+- Clinical physiology
+- Complex systems
+- Adaptive dynamics
 
 date: "2020-12-15T00:00:00Z"
 weight: 20
@@ -35,6 +33,6 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-The Physiological Dynamics Lab (PDL) investigates the clinical value multi-level, integrative physiological dynamics to inform and guide physical therapy practice aimed at improving patient safety, interventions and wellness from adulthood to elderhood.
+The Physiological Dynamics Lab (PDL) investigates the clinical value of multi-level, integrative physiological dynamics to inform and guide physical therapy practice aimed at improving patient safety, interventions and wellness from adulthood to elderhood.
 
 Please contact Sean Collins at smcollins1@plymouth.edu if your interested in learning more about the lab.
