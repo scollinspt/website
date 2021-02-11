@@ -1,5 +1,5 @@
 ---
-title: 
+title: Physiological Dynamics Lab
 subtitle: 
 summary: The Physiological Dynamics Lab (PDL) investigates the clinical value of multi-level, integrative physiological dynamics to inform and guide physical therapy practice aimed at improving patient safety, interventions and wellness from adulthood to elderhood.
 tags:
