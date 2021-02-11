@@ -1,6 +1,6 @@
 ---
-title: Physiological Dynamics Lab
-subtitle: 'Because life moves'
+title: 
+subtitle: 
 summary: The Physiological Dynamics Lab (PDL) investigates the clinical value multi-level, integrative physiological dynamics to inform and guide physical therapy practice aimed at improving patient safety, interventions and wellness from adulthood to elderhood.
 tags:
 - causal models
