@@ -1,12 +1,13 @@
 ---
 role: Professor of Physical Therapy
 avatar_filename: avatar.jpg
-bio: Professor of physical therapy with wide ranging interests related to the field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach) and physiological dynamics which together culminate in the development of plausible, defensible and clinically useful models.
+bio: Professor of physical therapy interested in the clinical inquiry of practice including the development of plausible, defensible and clinically useful models.
+
 interests:
 
-  - Physical therapy
   - Clinical inquiry
-  - Physiological dynamics
+  - Clinical reasoning 
+  - Decision making under uncertainty
 
 social:
   - icon: facebook
