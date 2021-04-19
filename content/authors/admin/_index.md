@@ -53,4 +53,4 @@ title: Sean Collins
 email: ""
 ---
 
-Professor of physical therapy that founded and directed the Plymouth State University DPT program and relinquished administrative duties in 2020 in order to focus on teaching and research. Wide ranging interests related to the field of physical therapy, including clinical inquiry (logic, epistemology, i.e. the approach) and physiological dynamics which together culminate in the development of plausible, defensible and clinically useful models.
+Professor of physical therapy that founded and directed the Plymouth State University DPT program until relinquishing administrative duties in 2020 in order to focus on teaching and research. Interested in the clinical inquiry of practice including the development of plausible, defensible and clinically useful models.
