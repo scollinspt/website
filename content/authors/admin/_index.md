@@ -1,7 +1,7 @@
 ---
-role: Professor of Physical Therapy
+role: Professor
 avatar_filename: avatar.jpg
-bio: Professor of physical therapy interested in philosophical inquiry in the areas of causation and inference through the combination of narrative, dialectic and empirical approaches to knowledge aimed at the dilemma of particulars and universals within the area of worker health and wellbeing, health economics and the economics of health.
+bio: Professor at Plymouth State University in the Health & Human Enrichment Cluster interested in philosophical inquiry in the areas of causation and inference through the combination of narrative, dialectic and empirical approaches to knowledge aimed at the dilemma of particulars and universals within the area of worker health and wellbeing, health economics and the economics of health.
 
 interests:
 
@@ -56,4 +56,4 @@ title: Sean Collins
 email: ""
 ---
 
-Professor of physical therapy that founded and directed the Plymouth State University DPT program until relinquishing administrative duties in 2020 in order to focus on teaching and research. Interested in philosophical inquiry in the areas of causation and inference through the combination of narrative, dialectic and empirical approaches to knowledge aimed at the dilemma of particulars and universals within the area of worker health and wellbeing, health economics and the economics of health.
+Professor in the Health & Human Enrichment Cluster that founded and directed the Plymouth State University DPT program until relinquishing administrative duties in 2020 in order to focus on teaching and research. Interested in philosophical inquiry in the areas of causation and inference through the combination of narrative, dialectic and empirical approaches to knowledge aimed at the dilemma of particulars and universals within the area of worker health and wellbeing, health economics and the economics of health.

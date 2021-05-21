@@ -1,14 +1,18 @@
 ---
 title: Clinical Inquiry
-summary: Clinical inquiry is a career long project of philosophical inquiry into the conceptual foundations of physical therapy practice.
+summary: Clinical inquiry is a project for inquiry into the philosophical foundations of physical therapy practice.
 tags:
-- Clinical Inquiry
-- Epistemology
-- Physical Therapy
+- Philosophical inquiry
+- epistemology
+- physical therapy
 - causal models
-- Probability
-- Inference
-- Logic
+- probability
+- inference
+- logic
+- narrative
+- dialectic
+- ethics
+- values
 date: "2020-12-16T00:00:00Z"
 weight: 10
 
