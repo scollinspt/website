@@ -1,13 +1,15 @@
 ---
 role: Professor of Physical Therapy
 avatar_filename: avatar.jpg
-bio: Professor of physical therapy interested in the clinical inquiry of practice including the development of plausible, defensible and clinically useful models.
+bio: Professor of physical therapy interested in philosophical inquiry in the areas of causation and inference through the combination of narrative, dialectic and empirical approaches to knowledge aimed at the dilemma of particulars and universals within the area of worker health and wellbeing, health economics and the economics of health.
 
 interests:
 
-  - Clinical inquiry
-  - Clinical reasoning 
-  - Decision making under uncertainty
+  - Philosophical inquiry (causation and inference)
+  - Combining narrative, dialectic and empirical approaches to knowledge
+  - Dilemma of particulars and universals
+  - Worker health & wellbeing
+  - Health economics & the economics of health
 
 social:
   - icon: facebook
@@ -54,4 +56,4 @@ title: Sean Collins
 email: ""
 ---
 
-Professor of physical therapy that founded and directed the Plymouth State University DPT program until relinquishing administrative duties in 2020 in order to focus on teaching and research. Interested in the clinical inquiry of practice including the development of plausible, defensible and clinically useful models.
+Professor of physical therapy that founded and directed the Plymouth State University DPT program until relinquishing administrative duties in 2020 in order to focus on teaching and research. Interested in philosophical inquiry in the areas of causation and inference through the combination of narrative, dialectic and empirical approaches to knowledge aimed at the dilemma of particulars and universals within the area of worker health and wellbeing, health economics and the economics of health.
